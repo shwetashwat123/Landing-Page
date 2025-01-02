@@ -51,11 +51,11 @@ const Page6 = () => {
                         </li>
                         <li className="my-2">
                             <span className="flex items-center"><img src="check.png" className="mr-2 h-4 w-4" />
-                                Hands on experiece </span>
+                                Hands on experience </span>
                         </li>
                         <li >
                             <span className="flex items-center my-2"><img src="check.png" className="mr-2 h-4 w-4" />
-                                Placement assistance <br /> ww </span>
+                                Placement assistance <br /> with 1 job opportunity</span>
 
                         </li>
                     </ul>
