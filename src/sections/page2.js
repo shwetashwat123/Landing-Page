@@ -4,6 +4,9 @@ const Page2 = () => {
         <div className="flex w-screen  flex-col lg:flex-row  justify-evenly  relative mt-20">
 
             <div className=" font-semibold flex flex-col items-center justify-center w-full" >
+            <img src="Group 458.png" class="absolute left-0 top-0 -z-10" alt="illlus"/>
+            <img src="Group 458.png" class="absolute bottom-0 right-0 -z-10 " alt="illlus"></img>
+                
                 <h1 className="text-7xl ">
                     The <span className="text-green-500">Ultimate <br />launchpad </span>for<br />your<span className="text-green-500"> career! </span>
                 </h1>

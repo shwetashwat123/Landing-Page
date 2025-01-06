@@ -1,6 +1,6 @@
 const Page3=()=>{
     return (
-        <div className="flex flex-col sm:flex-row w-screen my-10 px-20 " id="features">
+        <div className="flex flex-col sm:flex-row w-screen my-10  " id="features">
             <div>
                 <h1 className="text-6xl">We Offer a <span className="text-green-500 font-cursive">Comprehensive</span>  <br /> Skill Set</h1>
                 <p className=""> Supercharge your career with our expert-led programs, <br />

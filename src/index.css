@@ -44,3 +44,19 @@
         transform: translateX(0);
     }
 }
+
+
+.slide-left2 {
+
+    animation: slide-left 2s linear infinite;
+}
+
+@keyframes slide-left2 {
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
